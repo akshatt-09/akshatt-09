@@ -265,9 +265,11 @@ Contribution Activity
 
 Contribution Snake
 
-<div align="center"><img src="https://raw.githubusercontent.com/akshatt-09/akshatt-09/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/></div>---
+## Contribution Snake
 
-Current Focus
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/akshatt-09/akshatt-09/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/></div>
 
 Learning:
   - Java
