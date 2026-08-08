@@ -255,13 +255,13 @@ GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshatt-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akshatt-09&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatt-09&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=akshatt-09&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt-09&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
