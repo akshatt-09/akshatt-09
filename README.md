@@ -239,19 +239,16 @@ AWS
 
 Coding Profiles
 
-<div align="center"><a href="https://leetcode.com/">
+<div align="center"><a href="https://leetcode.com/u/akshxt_upadhyay/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a><a href="https://www.geeksforgeeks.org/">
+</a><a href="https://www.geeksforgeeks.org/profile/akshatupajn7x">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a><a href="https://www.hackerrank.com/">
+</a><a href="https://www.hackerrank.com/profile/akshatupadhyay81">
 <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a><a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a></div>---
 
 GitHub Analytics
 
-## GitHub Analytics
 
 <div align="center">
 
@@ -322,7 +319,7 @@ Connect
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="https://github.com/akshatt-09">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://github.com/akshatt-09">
+</a><a href="https://akshxt-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a></div>---
 
