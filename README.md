@@ -290,7 +290,7 @@ Hands-on AWS learning through EC2, networking and cloud deployment projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshatt-09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akshatt-09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
 <img src="https://github-readme-streak-stats.demolab.com?user=akshatt-09&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br><br>
