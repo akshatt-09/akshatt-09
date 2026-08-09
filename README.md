@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/github/followers/akshatt-09?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
 <img src="https://img.shields.io/github/stars/akshatt-09?style=for-the-badge&color=8B5CF6&label=STARS"/></div>---
 
-About Me
+##About Me
 
 I am a Computer Science Engineering student focused on building a strong foundation in software engineering, problem solving, cloud computing, and full-stack development.
 
@@ -57,7 +57,7 @@ Open To
 
 ---
 
-Tech Stack
+##Tech Stack
 
 Languages
 
@@ -89,7 +89,7 @@ Prompt Engineering| 🟣 Developing| Designing effective prompts for AI systems
 
 ---
 
-Featured Projects
+##Featured Projects
 
 <details>
 <summary><strong>☁️ AWS Portfolio Hosting</strong></summary>AWS Portfolio Hosting
@@ -203,13 +203,13 @@ Scope of Work
 - Explore Python and Flask backend development
 - Learn Git and GitHub workflows
 
-Skills
+##Skills
 
 "Java" "Python" "JavaScript" "HTML" "CSS" "AWS" "Linux" "Git" "GitHub"
 
 ---
 
-Achievements
+##Achievements
 
 <div align="center">Recognition| Details
 🎓 Engineering Education| Computer Science Engineering
@@ -237,7 +237,7 @@ AWS
 
 ---
 
-Coding Profiles
+##Coding Profiles
 
 <div align="center"><a href="https://leetcode.com/u/akshxt_upadhyay/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -247,39 +247,56 @@ Coding Profiles
 <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a></div>---
 
-GitHub Analytics
 
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshatt-09&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akshatt-09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatt-09&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.demolab.com?user=akshatt-09&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt-09&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
 
 </div>
 
-GitHub Trophies
+---
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=akshatt-09&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6"/></div>---
-
-Contribution Activity
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatt-09&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="95%"/></div>---
-
-Contribution Snake
-
+## GitHub Trophies
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshatt-09/akshatt-09/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshatt-09/akshatt-09/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/akshatt-09/akshatt-09/output/github-contribution-grid-snake.svg" width="95%">
-</picture>
+
+<img src="https://github-profile-trophy.vercel.app/?username=akshatt-09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
+
 </div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatt-09&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Akshh%27s%20Contribution%20Graph" width="95%"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshatt-09/akshatt-09/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshatt-09/akshatt-09/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/akshatt-09/akshatt-09/output/github-snake.svg" alt="GitHub Contribution Snake" width="95%">
+</picture>
+
+</div>---
 
 Learning:
   - Java
