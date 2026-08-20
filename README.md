@@ -1,22 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:4C1D95,100:7C3AED&height=180&section=header&text=AKSHHH&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Web%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Student&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:4C1D95,100:7C3AED&height=180&section=header&text=AKSHH&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Java%20Developer%20%7C%20AWS%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+self-contained+web+tools;DSA+%7C+Problem+Solving;Full+Stack+Learner;Football+Fan+%E2%9A%BD" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+in+Progress;Java+%7C+DSA+%7C+Web+Development;AWS+Cloud+Enthusiast;Full+Stack+Learner;Building+Projects+That+Solve+Problems" alt="Typing SVG"/>
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/Student-CSE-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web-Development-8B5CF6?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-Enthusiast-6366F1?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-Developer-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-6366F1?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br><br>
 
 <a href="https://github.com/akshatt-09"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.hackerrank.com/profile/akshatt-09"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
-<!-- add your LinkedIn/portfolio/email badges here once you send the links -->
+<a href="https://www.linkedin.com/in/akshat-nand-upadhyay-30a6a5283/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:akshatnandupadhyay@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://akshxt-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 <br><br>
 
@@ -32,86 +34,255 @@
 
 ## 🧠 About Me
 
-I'm a Computer Science student who likes building small, **self-contained web tools** — no frameworks, no dependencies, just a single HTML file that does one thing well. Alongside that, I'm steadily working through **Data Structures & Algorithms**.
+I am a Computer Science Engineering student focused on building a strong foundation in **software engineering, problem solving, cloud computing, and full-stack development**.
+
+My current development journey is centered around **Java, Data Structures & Algorithms, web technologies, AWS, Linux, and backend development**. I enjoy turning ideas into practical projects and continuously improving my understanding of how modern software systems are designed, deployed, and maintained.
 
 ```
+Software Engineering
+        ↓
 DSA + Problem Solving
         ↓
-Single-file Web Tools
+Java + Backend Development
         ↓
 Full Stack Development
         ↓
-Real Projects
+AWS + Cloud Computing
+        ↓
+Building Real-World Projects
 ```
 
 **Current Direction**
+- 💻 Software Engineering
+- ☕ Java Development
 - 🧩 Data Structures & Algorithms
-- 🌐 Frontend / Web Development
-- ⚽ Football, in whatever spare time is left
+- 🌐 Full Stack Development
+- ☁️ AWS Cloud Computing
+- 🐧 Linux & DevOps fundamentals
+- 🤖 AI-powered applications
+
+**Open To**
+
+<p>
+<img src="https://img.shields.io/badge/Internships-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Java%20Development-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud%20Projects-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Projects-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20Source-4C1D95?style=flat-square"/>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
-</p>
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=java,python,js,html,css"/></p>
+
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=html,css,js"/></p>
+
+**Backend & Databases**
+<p><img src="https://skillicons.dev/icons?i=java,python,flask,mysql"/></p>
+
+**Cloud, DevOps & Tooling**
+<p><img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode"/></p>
+
+---
+
+## 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Focus |
+|---|---|---|
+| AI Fundamentals | 🟣 Developing | Understanding AI concepts and applications |
+| AI Tools | 🟣 Developing | Using modern AI tools for development workflows |
+| AI Integration | 🟣 Developing | Exploring AI-powered web applications |
+| Python | 🟣 Developing | Programming and backend fundamentals |
+| Chatbot Development | 🟣 Developing | Building conversational applications |
+| Prompt Engineering | 🟣 Developing | Designing effective prompts for AI systems |
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><strong>🧩 DSA Progress Tracker</strong></summary>
+<summary><strong>☁️ AWS Portfolio Hosting</strong></summary>
 <br>
 
-A single-file HTML app for tracking a four-phase DSA study roadmap.
+A personal portfolio deployment project focused on understanding cloud hosting and web deployment using AWS infrastructure.
+
+| Category | Details |
+|---|---|
+| Stack | HTML, CSS, JavaScript, AWS EC2 |
+| Scale | Personal portfolio |
+| Performance | Lightweight frontend |
+| Security | AWS security groups + controlled access |
+| Impact | Practical cloud deployment experience |
+| Repository | [View on GitHub](https://github.com/akshatt-09) |
+
+**Key Learning:** EC2 deployment, Linux server management, HTTP configuration, Apache and cloud networking fundamentals.
+</details>
+
+<details>
+<summary><strong>🍔 Campus Food Hub</strong></summary>
+<br>
+
+A frontend project designed to help students compare food options and prices across multiple college canteens.
 
 | Category | Details |
 |---|---|
 | Stack | HTML, CSS, JavaScript |
-| Persistence | localStorage |
+| Scale | Multi-canteen food comparison |
+| Performance | Lightweight client-side application |
+| Security | No sensitive user data required |
+| Impact | Helps students compare food options |
 | Repository | [View on GitHub](https://github.com/akshatt-09) |
+
+**Key Features:** Compare canteen prices · Food categories (meals, snacks, beverages) · Canteen information · Ratings/popularity · Responsive interface
 </details>
 
 <details>
-<summary><strong>⚽ Football Auction</strong></summary>
+<summary><strong>🤖 College Chatbot</strong></summary>
 <br>
 
-A football auction web app inspired by the IPL Mega Auction format.
+A college-focused chatbot project combining a frontend interface with a Python Flask backend.
+
+| Category | Details |
+|---|---|
+| Stack | HTML, CSS, JavaScript, Python, Flask |
+| Scale | College information assistant |
+| Performance | Lightweight web interface |
+| Security | Backend-controlled requests |
+| Impact | Demonstrates conversational application development |
+| Repository | [View on GitHub](https://github.com/akshatt-09) |
+
+**Key Learning:** Flask backend development, frontend/backend communication, chatbot interfaces and API-style application architecture.
+</details>
+
+<details>
+<summary><strong>🌦️ Weather App</strong></summary>
+<br>
+
+A web application designed to display weather information through a clean and responsive interface.
 
 | Category | Details |
 |---|---|
 | Stack | HTML, CSS, JavaScript |
+| Scale | Client-side web application |
+| Performance | Lightweight frontend |
+| Security | API credentials should be protected |
+| Impact | Practical API integration experience |
 | Repository | [View on GitHub](https://github.com/akshatt-09) |
 </details>
 
 <details>
-<summary><strong>🛡️ ScamShield AI</strong></summary>
+<summary><strong>💰 Expense Tracker</strong></summary>
 <br>
 
-A cybersecurity dashboard app — Detect → Explain → Protect — built with React + Vite.
-
-| Category | Details |
-|---|---|
-| Stack | React, Vite |
-| Repository | [View on GitHub](https://github.com/akshatt-09) |
-</details>
-
-<details>
-<summary><strong>📚 Semester Exam Tracker</strong></summary>
-<br>
-
-A single-file HTML page with collapsible subject cards, per-unit checkboxes, and progress bars — covers 8 subjects across 5 units each.
+A frontend application concept for tracking and organizing personal expenses.
 
 | Category | Details |
 |---|---|
 | Stack | HTML, CSS, JavaScript |
-| Persistence | localStorage |
+| Scale | Personal finance utility |
+| Performance | Client-side |
+| Security | Local/user-controlled data |
+| Impact | Practical JavaScript application |
 | Repository | [View on GitHub](https://github.com/akshatt-09) |
 </details>
 
-<!-- Add more project cards here in the same format -->
+<details>
+<summary><strong>🎓 Student Management System</strong></summary>
+<br>
+
+A software project focused on managing student-related information and practicing application development concepts.
+
+| Category | Details |
+|---|---|
+| Stack | Java / Web Technologies |
+| Scale | Academic management |
+| Performance | Application dependent |
+| Security | Input validation and controlled access |
+| Impact | Strengthens software development fundamentals |
+| Repository | [View on GitHub](https://github.com/akshatt-09) |
+</details>
+
+---
+
+## 💼 Experience
+
+**Software Engineering — Student Developer**
+`2025 — Present`
+
+Focused on developing practical software projects while strengthening core computer science and engineering skills.
+
+**Scope of Work**
+- Build responsive web applications
+- Develop Java-based programming solutions
+- Practice Data Structures & Algorithms
+- Explore AWS cloud infrastructure
+- Work with Linux environments
+- Build frontend applications using HTML, CSS and JavaScript
+- Explore Python and Flask backend development
+- Learn Git and GitHub workflows
+
+**Skills:**
+<p>
+<img src="https://img.shields.io/badge/Java-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/HTML-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/CSS-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linux-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub-4C1D95?style=flat-square"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🎓 Engineering Education | Computer Science Engineering |
+| ☁️ AWS Learning | Hands-on EC2 and cloud deployment practice |
+| 🐍 Python | Completed Python learning coursework |
+| 💻 Web Development | Built multiple frontend projects |
+| 🤖 AI Exploration | Exploring AI tools and chatbot development |
+| 🔧 Project Development | Multiple academic and personal projects |
+
+</div>
+
+---
+
+## 📜 Certifications & Learning
+
+**Udemy**
+<img src="https://img.shields.io/badge/Udemy-Python%20Course-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+Python Course — Udemy
+
+**Google**
+<img src="https://img.shields.io/badge/Google-Skill%20Badges-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+Google Cloud / Google skill badge learning.
+
+**AWS**
+<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+Hands-on AWS learning through EC2, networking and cloud deployment projects.
+
+---
+
+## 🧩 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/akshxt_upadhyay/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.geeksforgeeks.org/profile/akshatupajn7x"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/akshatupadhyay81"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+
+</div>
 
 ---
 
@@ -141,7 +312,7 @@ A single-file HTML page with collapsible subject cards, per-unit checkboxes, and
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatt-09&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Akshhh%27s%20Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatt-09&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Akshh%27s%20Contribution%20Graph" width="95%"/>
 </div>
 
 ---
@@ -158,13 +329,48 @@ A single-file HTML page with collapsible subject cards, per-unit checkboxes, and
 
 ---
 
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Java
+  - Data Structures & Algorithms
+  - AWS Cloud
+  - Backend Development
+  - Linux
+  - Software Engineering
+
+Building:
+  - Full Stack Projects
+  - Cloud Hosted Applications
+  - Practical Java Projects
+  - AI-powered Applications
+
+Exploring:
+  - Artificial Intelligence
+  - Machine Learning
+  - Cloud Architecture
+  - DevOps
+  - Open Source
+
+Open To:
+  - Software Engineering Internships
+  - Java Development
+  - Cloud Projects
+  - Full Stack Opportunities
+  - Open Source Collaboration
+```
+
+---
+
 ## 📬 Connect
 
 <div align="center">
 
+<a href="mailto:akshatnandupadhyay@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akshat-nand-upadhyay-30a6a5283/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/akshatt-09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/akshatt-09"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
-<!-- add LinkedIn / email / portfolio badges here -->
+<a href="https://akshxt-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
