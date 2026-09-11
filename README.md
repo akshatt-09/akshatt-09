@@ -290,12 +290,12 @@ Hands-on AWS learning through EC2, networking and cloud deployment projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshatt-09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=akshatt-09&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats-sage-six-40.vercel.app/api?username=akshatt-09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%"/>
+<img src="https://github-readme-streak-vercel.vercel.app?user=akshatt-09&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
+<img src="https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=akshatt-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
 
 </div>
 
@@ -304,7 +304,7 @@ Hands-on AWS learning through EC2, networking and cloud deployment projects.
 ## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akshatt-09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=akshatt-09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
 </div>
 
 ---
@@ -312,7 +312,7 @@ Hands-on AWS learning through EC2, networking and cloud deployment projects.
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatt-09&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Akshh%27s%20Contribution%20Graph" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshatt-09&theme=tokyonight" width="95%"/>
 </div>
 
 ---
